@@ -9,7 +9,8 @@
 <div align="center">
     <h2>STATS</h2>
     <a href = "https://github.com/wigaandini/">
-        <img src="https://github-profile-trophy.vercel.app/?username=wigaandini&column=-1&theme=buefy&rank=-C,-B,-?" />
+        <!-- <img src="https://github-profile-trophy.vercel.app/?username=wigaandini&column=-1&theme=buefy&rank=-C,-B,-?" /> -->
+        <img src="https://github-profile-trophy.vercel.app/?username=bernarduswillson&theme=buefy&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Repo,PullRequest">
         <br>
       <img src="https://github-readme-stats.vercel.app/api?username=wigaandini&hide=issues&count_private=true&show_icons=true&theme=buefy" height=200/>
         <br>
@@ -19,7 +20,7 @@
 <div align="center">
     <h2>LANGUAGES</h2>
     <a href = "https://github.com/wigaandini/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wigaandini&layout=compact&theme=buefy" width=320/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wigaandini&layout=compact&theme=buefy&langs_count=10" width=320/>
     </a>
 </div>
 
