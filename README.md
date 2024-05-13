@@ -17,12 +17,12 @@
     </a>
 </div>
 
-<!-- <div align="center">
+<div align="center">
     <h2>LANGUAGES</h2>
     <a href = "https://github.com/wigaandini/">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wigaandini&layout=compact&theme=buefy&langs_count=10" width=320/>
     </a>
-</div> -->
+</div>
 
 <!-- <div align="center">
     <h2>CONTRIBUTIONS</h2>
