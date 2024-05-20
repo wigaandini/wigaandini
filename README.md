@@ -24,6 +24,10 @@
     </a>
 </div>
 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wigaandini&theme=buefy)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <!-- <div align="center">
     <h2>CONTRIBUTIONS</h2>
     <picture>
